@@ -2,9 +2,7 @@ body{
     background-color: #000;
 }
 
-h1{
-    color: #Fff;
-}
+
 .sidebar{
     position: fixed;
     top: 0;
@@ -81,7 +79,11 @@ h1{
 
 .library .library_buttom .fa{
     font-size: 20px;
-    margin-right: 10px;
     font-weight: 300;
+    margin-right: 10px;
     padding-right: 8px;
+}
+
+.library .library_content .fa-plus{
+    margin: 24px 10px;
 }
